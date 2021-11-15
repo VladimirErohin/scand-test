@@ -1,0 +1,28 @@
+.card {
+    position: relative;
+    border: 1px solid darkgrey;
+    border-radius: 4px;
+    display: flex;
+    margin: 20px 0 0 20px;
+    width: 215px;
+    height: 158px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.card_item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px 0;
+}
+.card_id {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.noteDelete{
+    position: absolute;
+    top:12px;
+    left: 16px;
+}

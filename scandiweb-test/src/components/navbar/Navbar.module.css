@@ -1,0 +1,13 @@
+.navbar{
+  border-bottom: 1px solid grey;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+}
+.btns{
+  margin-left: auto;
+}
+button{
+  margin-left: 6px;
+}

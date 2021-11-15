@@ -1,0 +1,15 @@
+.product_list{
+    border: 1px solid green;
+    display: flex;
+
+}
+.list_content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.pr{
+    border: 1px solid orange;
+    width: 20px;
+    height: 20px;
+}
